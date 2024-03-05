@@ -1,6 +1,8 @@
 # VBA_challenge
 The Module 2 assignment was completed to assess the skills and understanding of VBA.
 
+**Note**: _Due to the large size of the actual 'Multiple_year_stock_data.xlsx', it was not added to repository. Instead the test file 'alphabetical_testing.xlsx' was added to show that the code does work. All other files and results are related to the actual 'Multiple_year_stock_data.xlsx' file data._
+
 ## First Task
 Create a script that loops through all the stocks for one year and outputs the following information:
 * The ticker symbol
